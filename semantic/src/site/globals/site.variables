@@ -1,0 +1,7 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@headerFont        :
+@pageFont          : 'Dosis', sans-serif;
+@googleFontFamily  : 'Dosis', sans-serif;
